@@ -2,20 +2,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Quoc+Bui!;" />
 </h1>
 <h3 align="center">
-<img align="center" src="https://github.com/bvquoc/Portfolio/blob/main/src/Assets/avatar.png?raw=true" alt="bvquoc" height="160" />
+<img align="center" src="https://lh3.googleusercontent.com/drive-viewer/AKGpihbUmt7jXaO6CzDpkzMxptIHAh1f-JeSBTzV9ttMayFE0_mRan1OPm5yRU1P4K1xb8DBOO1jLhO7U6oa_0eG-7BZxFn2UAxhmvY=s2560" alt="bvquoc" height="160" />
 </h3>
-<h3 align="center">I'm a Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
-<br/>
 
 <div align="center">
 
  🌍 I'm based in Vietnam
  
- 🔭 I’m currently working at [c0x12c, Inc.](https://c0x12c.com/)
+ 🔭 Work at [c0x12c, Inc.](https://c0x12c.com/)
  
- 📄 Know about my experiences [https://quoc-bui.engineer/](https://quoc-bui.engineer/)
-
  </div>
 
 <div align="center"> 
